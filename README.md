@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @notyouroniichan
+- 👋 Hi, I’m Tushar Vinayak
 - 👀 I’m interested in Machine Learning & Artificial Intelligence
-- 🌱 I’m currently learning ML AI
-- 💞️ I’m looking to collaborate on projects related to ML&AI 
+- 🌱 I’m currently learning ML & AI 
+- 💞️ I’m looking to collaborate on projects related to ML & AI 
 - 📫 Email - tusharvinayak6@gmail.com
 
 <!---
